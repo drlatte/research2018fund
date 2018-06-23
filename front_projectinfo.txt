@@ -1,11 +1,5 @@
-<h2>Project Headline Info </h2>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+<h2>How I Am Researching Bitcoin Cash & Its Humanitarian Applications </h2>
+This research focuses on some of the humanitarian applications of digital and crypto currencies by examining the local impacts of Bitcoin Cash, including eatBCH's 2018 campaign in Venezuela. Issues in Venezuela in early 2018 demonstrate the power of Bitcoin Cash to potentially stabilize local economies in resistance to crippling economic policies of oppression. From an anthropological and sociological perspective, this new and non-traditional use of donations and funding can be seen as another viable method for vital humanitarian initiatives that have immediate positive impacts upon local communities. 
 
-<h3>Project Subheader</h3>
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3>How Your Funds Will Help My Research</h3>
+Your donation helps me devote more time to researching, writing, and developing my presentation for an academic conference in Fall 2018. I'm growing my knowledge and database about digital currencies and specifically Bitcoin Cash as the foundation for the project overall. From there, I'm looking at how Bitcoin Cash, as a global currency, can be used to help solve local problems and issues, specifically those that stem from economic oppression. As of June 2018, I currently have two small case studies that I am utilizing to examine the positive local impacts of Bitcoin Cash and I want to inform other academics (and more!) how this can be leveraged in many other scenarios, too.
